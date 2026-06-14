@@ -51,13 +51,6 @@ ObjectDetectionTracking/
 
 ---
 
-## ⚙️ Installation
-
-### Clone Repository
-
-git clone https://github.com/YourUsername/CodeAlpha_ObjectDetectionTracking.git
-
-cd CodeAlpha_ObjectDetectionTracking
 
 ### Install Dependencies
 
@@ -117,19 +110,6 @@ Bus ID: 4
 * Autonomous Vehicles
 * Crowd Analysis
 
----
-
-## 📸 Project Screenshots
-
-Add screenshots of your running application here.
-
----
-
-## 🎥 Demo Video
-
-Add your LinkedIn demo video or YouTube link here.
-
----
 
 ## 🤝 Acknowledgements
 
@@ -142,11 +122,6 @@ Special thanks to CodeAlpha for providing the opportunity to work on real-world 
 Ali Abdur Rehman
 
 CodeAlpha Artificial Intelligence Intern
-
-LinkedIn: Add Your LinkedIn Profile
-
-GitHub: Add Your GitHub Profile
-
 ---
 
 ⭐ If you found this project useful, please give it a star!
